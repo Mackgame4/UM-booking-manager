@@ -1,3 +1,6 @@
+# UM-booking-manager
+_🗂️ Course project for UM for LI3 in 2023/24_
+
 ## Dependencies
 
 To install the dependencies you can use the following commands:
